@@ -1,4 +1,3 @@
-import "./App.css";
 import { ProductsForm } from "./components/ProductsForm";
 import { ProductsList } from "./components/ProductsList";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
